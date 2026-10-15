@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="EcommerceSystem/EcommerceSystem.csproj" />
+  <Project Path="HealthCareSystem/HealthCareSystem.csproj" Id="85448f0a-9e80-444e-9152-542ad2c56890" />
   <Project Path="LibrarySystem/LibrarySystem.csproj" />
 </Solution>
